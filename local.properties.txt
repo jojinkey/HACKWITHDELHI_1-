@@ -1,0 +1,3 @@
+weatherKey="be99ce9038fecf307afaea7ede4fe24553463536"
+trefleKey="fPjcBHnDmv8SUXuNtwQYLNbxbj1AX2gkdO4343aAr371fw"
+plantnetKey="2b10Sxdo1oXO2r6LhwD3424FgjO"
